@@ -1,7 +1,7 @@
 # Data-Mining
 
 1. Data Golf
-Data ini mungkin sudah familiar dengan data yang sering dipakai sebagai contoh dalam buku-buku yang membahas tentang mengolah data menjadi sebuah informasi dengan ilmu data mining.
+
 Pada data golf ini akan mempresentasikan layak bermain golf ya atau tidak dengan mengambil 4 jenis atribut dari dua atribut kategorikal atau diskrit dan dua atribut beripe numerik.
 Pada dataset ini dengan melihat jenis datanya dan seperti yang juga tertulis pada buku karya Eko Prasetyo mampu digunakan dengan menggunakan Algoritma klasifikasi seperti Naive Bayes dan C4.5 dari keluarga Decision Tree.
 
