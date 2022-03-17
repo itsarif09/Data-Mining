@@ -1,8 +1,8 @@
 # Data-Mining
 
-1. Data Golf
+<br> (Tanggal Buat : 15 Januari 2021)</br>
+<br> Data ini berisi Produksi Perikanan Tangkap di Provinsi DKI Jakarta Tahun 2019 Penjelasan variabel dari data diatas sebagai berikut : </br>
+<br> 1. tahun : Tahun 2. jenis_ikan : Jenis ikan yang ditangkap 3. produksi_(ton) : Produksi ikan (dalam satuan ton)</br>
 
-Pada data golf ini akan mempresentasikan layak bermain golf ya atau tidak dengan mengambil 4 jenis atribut dari dua atribut kategorikal atau diskrit dan dua atribut beripe numerik.
-Pada dataset ini dengan melihat jenis datanya dan seperti yang juga tertulis pada buku karya Eko Prasetyo mampu digunakan dengan menggunakan Algoritma klasifikasi seperti Naive Bayes dan C4.5 dari keluarga Decision Tree.
 
-![datagolf](https://user-images.githubusercontent.com/98259374/158726590-cd9d35e6-f897-40f4-bd42-b5e0794229a9.png)
+![dataikan](https://user-images.githubusercontent.com/98259374/158728998-ed37966b-8011-4baa-a388-27c286aef732.png)
