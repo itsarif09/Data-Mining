@@ -1,20 +1,20 @@
-tahun,jenis_ikan,produksi_(ton)
-2019,Teri,438
-2019,Teri Nasi,0
-2019,Belanak,25
-2019,Bentong,656
-2019,Cendro,108
-2019,Daun Bambu / Talang-talang,143
-2019,Ikan terbang,186
-2019,Japuh,313
-2019,Julung-julung,0
-2019,Banyar,538
-2019,Kembung,1095
-2019,Layang Anggur / Malalugis,0
-2019,Layang Deles,0
-2019,Layang Biru,87
-2019,Layang Benggol,5806
-2019,Lemuru,409
-2019,Siro,1092
-2019,Selar Komo,0
-2019,Selar Hijau,0
+tahun,jenis_ikan,produksi_(ton),harga_(kg)
+2019,Teri,438,85000
+2019,Teri Nasi,0,40000
+2019,Belanak,25,59000
+2019,Bentong,656,45000
+2019,Cendro,108,40000
+2019,Daun Bambu / Talang-talang,143,90000
+2019,Ikan terbang,186,50000
+2019,Japuh,313,20000
+2019,Julung-julung,0,0
+2019,Banyar,538,40000
+2019,Kembung,1095,45000
+2019,Layang Anggur / Malalugis,0,0
+2019,Layang Deles,0,0
+2019,Layang Biru,87,60000
+2019,Layang Benggol,5806,30000
+2019,Lemuru,409,37500
+2019,Siro,1092,25000
+2019,Selar Komo,0,21000
+2019,Selar Hijau,0,0
