@@ -1,4 +1,4 @@
-# Data-Mining
+# Data-Mining-Tugas 1
 
 <br> (Tanggal Buat : 15 Januari 2021)</br>
 <br> Data ini berisi Produksi Perikanan Tangkap di Provinsi DKI Jakarta Tahun 2019 Penjelasan variabel dari data diatas sebagai berikut : </br>
